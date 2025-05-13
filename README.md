@@ -1,20 +1,33 @@
-#  👋 Olá, me chamo Camila (Hello, My name is Camila)
-## Bem-vindo (a) ao meu perfil GitHub (Welcome to my GitHub profile)
+# Oiê, me chamo Camila
 
-## Estou aprendendo
+🎓 Estudante de Engenharia de Software  
+💻 Técnica em Redes de Computadores  
+📊 Apaixonada por análise de dados e tecnologia  
+🌸 Sonhando em viver no Japão e trabalhar com dados!
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<!--
-**yuifronerd/yuifronerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que eu uso
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Estatísticas GitHub
+
+![Edna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednatech&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧩 Projetos em Destaque
+
+- 🔗 [Sistema de Doações com Chatbot e Gamificação](https://github.com/ednatech/seu-projeto)
+- 📊 [Análise Financeira com Power BI](https://github.com/ednatech/seu-projeto)
+- 🤖 [Reconhecimento de Libras com IA](https://github.com/ednatech/seu-projeto)
+
+---
+
+## ✉️ Contato
+- 📧 edna@email.com
+- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
