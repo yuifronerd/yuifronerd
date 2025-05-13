@@ -1,9 +1,7 @@
 # Oiê, me chamo Camila
 
 💻 Técnica em Redes de Computadores  
-📊 Apaixonada por Redes e Análise de dados
-
-![Texto Alternativo](https://wallpapers-clan.com/wp-content/uploads/2025/05/pensive-anime-girl-neon-lights-desktop-wallpaper-preview.jpg)
+📊 Apaixonada por Redes e Análise de dados      ![Texto Alternativo](https://wallpapers-clan.com/wp-content/uploads/2025/05/pensive-anime-girl-neon-lights-desktop-wallpaper-preview.jpg)
 ---
 
 ## 🚀 Tecnologias que eu uso
