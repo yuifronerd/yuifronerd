@@ -1,8 +1,6 @@
-#  👋 Olá, me chame Camila
-# Bem-vindo (a) ao meu perfil GitHub
+#  👋 Olá, me chame Camila (Hello, My name is Camila)
+# Bem-vindo (a) ao meu perfil GitHub (Welcome to my GitHub profile)
 
-# 👋  Hello, My name is Camila
-# Welcome to my GitHub profile
 <!--
 **yuifronerd/yuifronerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
