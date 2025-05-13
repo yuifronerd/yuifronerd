@@ -6,6 +6,7 @@
 
 
 🚀 Tecnologias que eu uso: 
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
@@ -19,7 +20,7 @@
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-00AEEF?style=flat&logo=cisco&logoColor=fff)
 
 ---
-## Estatísticas
+## 📊 Estatísticas
 <div>
 <a href="https://github.com/yuifronerd">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuifronerd&layout=compact&langs_count=7&theme=dracula"/>
