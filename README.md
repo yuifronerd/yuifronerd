@@ -1,7 +1,7 @@
 # Oiê, me chamo Camila
 
-💻 ## Técnica em Redes de Computadores  
-📊 ## Apaixonada por Redes e Análise de dados 
+## 💻 Técnica em Redes de Computadores  
+## 📊 Apaixonada por Redes e Análise de dados 
 <img align="right" width="200px" style="margin-top:-20px" src="https://media.tenor.com/a7bhQmbYIu0AAAAi/satsuki-mei-satsuki-mei-vtuber.gif">
 ---
 
