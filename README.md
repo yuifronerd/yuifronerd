@@ -20,8 +20,14 @@
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-00AEEF?style=flat&logo=cisco&logoColor=fff)
 
 ---
+## Estatísticas
+<div>
+<a href="https://github.com/yuifronerd">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-## 🧩 Projetos em Destaque
+## 🧩 Principais Projetos
 
 - 🔗 [Sistema de Doações com Chatbot e Gamificação](https://github.com/ednatech/seu-projeto)
 - 📊 [Análise Financeira com Power BI](https://github.com/ednatech/seu-projeto)
