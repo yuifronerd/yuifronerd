@@ -31,7 +31,7 @@
 
 ## 🧩 Principais Projetos
 
-- 🔗 [Sistema de Doações com Chatbot e Gamificação](https://github.com/yuifronerd/ChatBotJogo)
+- 🔗 [ChatBot de recomendação de jogos](https://github.com/yuifronerd/ChatBotJogo)
 - 📊 [Manipulação de dados com bibliotecas Python](https://github.com/yuifronerd/ManipulacaoDeDados)
 - ❤️ [Protótipo site BomGesto](https://github.com/yuifronerd/Prototipo-BomGesto)
 - 🏋️‍♀️ [Sistema de Cadastro para Academia](https://github.com/yuifronerd/cadastro-academia)
