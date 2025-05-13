@@ -2,7 +2,7 @@
 
 💻 Técnica em Redes de Computadores  
 📊 Apaixonada por Redes e Análise de dados
-🌸 Sonho em me tonar uma boa profissional
+
 ![Texto Alternativo](file:///C:/Users/Edna/Downloads/anime%20girl%20wallpaper.webp)
 ---
 
