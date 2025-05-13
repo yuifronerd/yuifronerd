@@ -2,8 +2,7 @@
 
 💻 Técnica em Redes de Computadores  
 📊 Apaixonada por Redes e Análise de dados 
-
-![Texto Alternativo](https://media.tenor.com/a7bhQmbYIu0AAAAi/satsuki-mei-satsuki-mei-vtuber.gif)
+<img align="right" width="150px" style="margin-top:-20px" src="https://media.tenor.com/a7bhQmbYIu0AAAAi/satsuki-mei-satsuki-mei-vtuber.gif">
 ---
 
 ## 🚀 Tecnologias que eu uso
