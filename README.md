@@ -3,7 +3,7 @@
 💻 Técnica em Redes de Computadores  
 📊 Apaixonada por Redes e Análise de dados
 
-![Texto Alternativo](file:///C:/Users/Edna/Downloads/anime%20girl%20wallpaper.webp)
+![Texto Alternativo](https://wallpapers-clan.com/wp-content/uploads/2025/05/pensive-anime-girl-neon-lights-desktop-wallpaper-preview.jpg)
 ---
 
 ## 🚀 Tecnologias que eu uso
