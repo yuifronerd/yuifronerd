@@ -1,10 +1,10 @@
-# Oiê, me chamo Camila
+# Camila Falcão
 
 💻 Técnica em Redes de Computadores  
 📊 Apaixonada por Redes e Análise de dados 
 <img align="right" width="200px" style="margin-top:-10px" src="https://media.tenor.com/a7bhQmbYIu0AAAAi/satsuki-mei-satsuki-mei-vtuber.gif">
 
----
+
 
 ## 🚀 Tecnologias que eu uso
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
