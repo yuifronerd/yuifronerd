@@ -21,12 +21,6 @@
 
 ---
 
-## 📈 Estatísticas GitHub
-
-![Edna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednatech&show_icons=true&theme=tokyonight)
-
----
-
 ## 🧩 Projetos em Destaque
 
 - 🔗 [Sistema de Doações com Chatbot e Gamificação](https://github.com/ednatech/seu-projeto)
@@ -36,5 +30,5 @@
 ---
 
 ## ✉️ Contato
-- 📧 edna@email.com
-- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
+- 📧 camilafalcaosantos@mail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/camila-falc%C3%A3o-b680992a2/)
