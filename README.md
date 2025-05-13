@@ -23,15 +23,18 @@
 ## Estatísticas
 <div>
 <a href="https://github.com/yuifronerd">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuifronerd&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuifronerd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+---
 
 ## 🧩 Principais Projetos
 
-- 🔗 [Sistema de Doações com Chatbot e Gamificação](https://github.com/ednatech/seu-projeto)
-- 📊 [Análise Financeira com Power BI](https://github.com/ednatech/seu-projeto)
-- 🤖 [Reconhecimento de Libras com IA](https://github.com/ednatech/seu-projeto)
+- 🔗 [Sistema de Doações com Chatbot e Gamificação](https://github.com/yuifronerd/ChatBotJogo)
+- 📊 [Manipulação de dados com bibliotecas Python](https://github.com/yuifronerd/ManipulacaoDeDados)
+- 🤖 [Protótipo site BomGesto](https://github.com/yuifronerd/Prototipo-BomGesto)
+- [Sistema de Cadastro para Academia](https://github.com/yuifronerd/cadastro-academia)
 
 ---
 
