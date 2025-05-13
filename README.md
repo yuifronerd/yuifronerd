@@ -3,7 +3,7 @@
 💻 Técnica em Redes de Computadores  
 📊 Apaixonada por Redes e Análise de dados
 🌸 Sonho em me tonar uma boa profissional
-
+![Texto Alternativo](file:///C:/Users/Edna/Downloads/anime%20girl%20wallpaper.webp)
 ---
 
 ## 🚀 Tecnologias que eu uso
@@ -42,4 +42,3 @@
 - 📧 camilafalcaosantos@mail.com
 - <a href="https://www.linkedin.com/in/camila-falc%C3%A3o-b680992a2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/yuifronerd/yuifronerd/blob/output/github-contribution-grid-snake.svg)
