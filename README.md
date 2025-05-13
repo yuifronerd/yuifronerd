@@ -2,7 +2,7 @@
 
 💻 Técnica em Redes de Computadores  
 📊 Apaixonada por Redes e Análise de dados 
-<img align="right" width="200px" style="margin-top:-10px" src="https://media.tenor.com/oOr1SKUu88oAAAAi/maplesaku-vtuber.gif">
+<img align="right" width="200px" style="margin-top:-10px" src="https://media.tenor.com/a7bhQmbYIu0AAAAj/satsuki-mei-satsuki-mei-vtuber.gif">
 
 
 🚀 Tecnologias que eu uso: 
