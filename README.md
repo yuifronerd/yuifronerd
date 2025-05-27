@@ -1,7 +1,6 @@
 # Camila Falcão 🌸
-
-💻 Técnica em Redes de Computadores  
-📊 Apaixonada por Redes e Análise de dados 
+  
+📊 Apaixonada por Redes e Testes de sofwtare
 <img align="right" width="200px" style="margin-top:-10px" src="https://media.tenor.com/a7bhQmbYIu0AAAAj/satsuki-mei-satsuki-mei-vtuber.gif">
 
 
