@@ -1,6 +1,6 @@
 # Camila Falcão 🌸
   
-📊 Apaixonada por Redes e Testes de sofwtare
+📊 Apaixonada por tecnologia
 <img align="right" width="200px" style="margin-top:-10px" src="https://media.tenor.com/a7bhQmbYIu0AAAAj/satsuki-mei-satsuki-mei-vtuber.gif">
 
 
